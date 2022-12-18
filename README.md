@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome to my profile!
+
+I'm currently a graduate student at the University of Wisconsin-Milwaukee, at the Department of Political Science.
+
+My primary interests lie in democratic backsliding, competitive authoritarianism, institutions in hybrid and authoritarian regimes, and a little in political behaviour in such systems of government. I approach my research mostly from a quantitative angle, preferring large-n study as opposed to small-n case studies.
 
 <!--
 **Kaan-Aksoy/Kaan-Aksoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
