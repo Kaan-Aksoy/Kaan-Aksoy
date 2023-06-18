@@ -6,4 +6,4 @@ My primary interests lie in democratic backsliding, comparative authoritarianism
 
 I also place great value on not only running good analyses, but also presenting findings in a coherent, effective, and understandable manner. In practice, this translates to good data visualisation practices. I take great pride in constructing simple yet effective graphs and figures with which I can explain my findings to a wide range of audiences.
 
-I primarily utilise the R programming language through the RStudio IDE. That being said, I'm learning Python and am eager to incorporate it into my work where possible, particularly where it provides advantages over R.
+I primarily utilise the R programming language through the RStudio IDE, finding the language to be quite helpful in data cleaning and preparation, as well as data analysis. That being said, I'm learning Python and am eager to incorporate it into my work where possible, particularly where it provides advantages over R.
