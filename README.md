@@ -1,6 +1,6 @@
 ### Welcome to my profile!
 
-I'm a freelance data analyst who has a political science background of a quantitative nature, and have recently graduated from the University of Wisconsin-Milwaukee Department of Political Science with a Master of Arts. I wrote a Master's paper demonstrating an inverse relationship between repression and low-level bribery in a large-n study. I prefer to approach questions through this lens, believing that a good quantity of properly collected data, coupled with skilled utilization of this data, will lead to greater insights relative to small-n studies.
+I'm a data analyst who has a political science background, but I currently work in industry. I have two graduate degrees, with a Master of Arts from Bilkent University Department of International Relations and a Master of Arts from the University of Wisconsin-Milwaukee Department of Political Science. I prefer to approach questions through the lens of quantitative study, believing that a good quantity of properly collected data, coupled with skilled utilization of this data, will lead to greater insights relative to small-n studies.
 
 Recognizing the importance of quality in data collection, I pride myself on my ability to clean and tidy data, and believe that there is value in presenting data in a descriptive format to understand simple trends and patterns. Sometimes, there is value in simplicity. Should the initial analyses be insufficient or prompt deeper questioning, I am more than capable of digging into it with predictive statistics.
 
